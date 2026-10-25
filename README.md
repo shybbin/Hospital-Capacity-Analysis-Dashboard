@@ -46,7 +46,7 @@ Government hospitals in many states struggle to match patient demand with availa
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](<img width="1381" height="602" alt="Dashboardss" src="https://github.com/user-attachments/assets/50794529-645e-4755-b62d-cc4f42406fd2" />
+![Dashboard Screenshot](<img width="1387" height="599" alt="image" src="https://github.com/user-attachments/assets/7d5cb386-f709-4625-8fcb-f00b734d2c08" />
 )
 
 ## 📁 Repository Structure
